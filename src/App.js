@@ -3,7 +3,7 @@ import { Route, Routes } from "react-router-dom";
 import AllMeetupsPage from "./pages/AllMeetUps";
 import FavouritesPage from "./pages/Favourites";
 import NewMeetupPage from "./pages/NewMeetUps";
-import MainNavigation from "./components/MainNavigation";
+import MainNavigation from "./components/layout/MainNavigation";
 
 function App() {
   return (
